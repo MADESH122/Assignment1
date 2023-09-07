@@ -1,0 +1,30 @@
+body{
+ background:  rgb(55, 116, 185) ;
+}
+.box-part{
+    background-color: rgb(243, 243, 243);
+    margin-top: 60px;
+    padding:30px 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    margin-top:20px;
+}
+.box{
+    padding: 60px 0px;
+}
+i{
+    color:rgb(5, 81, 153);
+    font-size:30px;
+    
+}
+h4{
+    color:rgb(7, 81, 151);
+}
